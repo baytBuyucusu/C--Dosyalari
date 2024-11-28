@@ -1,0 +1,10 @@
+C:\Users\H2O\source\repos\ornek\ornek\obj\Debug\ornek.csproj.AssemblyReference.cache
+C:\Users\H2O\source\repos\ornek\ornek\obj\Debug\ornek.Form1.resources
+C:\Users\H2O\source\repos\ornek\ornek\obj\Debug\ornek.Properties.Resources.resources
+C:\Users\H2O\source\repos\ornek\ornek\obj\Debug\ornek.csproj.GenerateResource.cache
+C:\Users\H2O\source\repos\ornek\ornek\obj\Debug\ornek.csproj.CoreCompileInputs.cache
+C:\Users\H2O\source\repos\ornek\ornek\bin\Debug\ornek.exe.config
+C:\Users\H2O\source\repos\ornek\ornek\bin\Debug\ornek.exe
+C:\Users\H2O\source\repos\ornek\ornek\bin\Debug\ornek.pdb
+C:\Users\H2O\source\repos\ornek\ornek\obj\Debug\ornek.exe
+C:\Users\H2O\source\repos\ornek\ornek\obj\Debug\ornek.pdb
