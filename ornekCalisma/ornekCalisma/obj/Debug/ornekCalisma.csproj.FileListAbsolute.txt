@@ -1,0 +1,10 @@
+C:\Users\H2O\Desktop\KORUMASIZ\rukiye\ornekCalisma\ornekCalisma\bin\Debug\ornekCalisma.exe.config
+C:\Users\H2O\Desktop\KORUMASIZ\rukiye\ornekCalisma\ornekCalisma\bin\Debug\ornekCalisma.exe
+C:\Users\H2O\Desktop\KORUMASIZ\rukiye\ornekCalisma\ornekCalisma\bin\Debug\ornekCalisma.pdb
+C:\Users\H2O\Desktop\KORUMASIZ\rukiye\ornekCalisma\ornekCalisma\obj\Debug\ornekCalisma.csproj.AssemblyReference.cache
+C:\Users\H2O\Desktop\KORUMASIZ\rukiye\ornekCalisma\ornekCalisma\obj\Debug\ornekCalisma.Form1.resources
+C:\Users\H2O\Desktop\KORUMASIZ\rukiye\ornekCalisma\ornekCalisma\obj\Debug\ornekCalisma.Properties.Resources.resources
+C:\Users\H2O\Desktop\KORUMASIZ\rukiye\ornekCalisma\ornekCalisma\obj\Debug\ornekCalisma.csproj.GenerateResource.cache
+C:\Users\H2O\Desktop\KORUMASIZ\rukiye\ornekCalisma\ornekCalisma\obj\Debug\ornekCalisma.csproj.CoreCompileInputs.cache
+C:\Users\H2O\Desktop\KORUMASIZ\rukiye\ornekCalisma\ornekCalisma\obj\Debug\ornekCalisma.exe
+C:\Users\H2O\Desktop\KORUMASIZ\rukiye\ornekCalisma\ornekCalisma\obj\Debug\ornekCalisma.pdb
