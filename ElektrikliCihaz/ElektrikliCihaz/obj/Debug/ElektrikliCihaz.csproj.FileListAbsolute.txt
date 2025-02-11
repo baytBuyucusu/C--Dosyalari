@@ -1,0 +1,10 @@
+C:\Users\student\Desktop\Ahmet\ntp\2024\ElektrikliCihaz\ElektrikliCihaz\bin\Debug\ElektrikliCihaz.exe.config
+C:\Users\student\Desktop\Ahmet\ntp\2024\ElektrikliCihaz\ElektrikliCihaz\bin\Debug\ElektrikliCihaz.exe
+C:\Users\student\Desktop\Ahmet\ntp\2024\ElektrikliCihaz\ElektrikliCihaz\bin\Debug\ElektrikliCihaz.pdb
+C:\Users\student\Desktop\Ahmet\ntp\2024\ElektrikliCihaz\ElektrikliCihaz\obj\Debug\ElektrikliCihaz.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Ahmet\ntp\2024\ElektrikliCihaz\ElektrikliCihaz\obj\Debug\ElektrikliCihaz.Form1.resources
+C:\Users\student\Desktop\Ahmet\ntp\2024\ElektrikliCihaz\ElektrikliCihaz\obj\Debug\ElektrikliCihaz.Properties.Resources.resources
+C:\Users\student\Desktop\Ahmet\ntp\2024\ElektrikliCihaz\ElektrikliCihaz\obj\Debug\ElektrikliCihaz.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Ahmet\ntp\2024\ElektrikliCihaz\ElektrikliCihaz\obj\Debug\ElektrikliCihaz.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Ahmet\ntp\2024\ElektrikliCihaz\ElektrikliCihaz\obj\Debug\ElektrikliCihaz.exe
+C:\Users\student\Desktop\Ahmet\ntp\2024\ElektrikliCihaz\ElektrikliCihaz\obj\Debug\ElektrikliCihaz.pdb
